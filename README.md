@@ -6,5 +6,5 @@
 💪🏼 Since this is my first self taught project, it is not a very significant move. But, I shall try to improve this project further and hope to add functionality too.
 
 👉🏼 Link to the live project - https://phoenix-14.github.io/Zomato-clone/
-
+🙌 Do star the rep if you like the project...
 😄 Thank You.
